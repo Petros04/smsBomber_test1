@@ -167,4 +167,4 @@ if __name__ == "__main__":
     ui.setupUi(Dialog)
     Dialog.show()
     sys.exit(app.exec_())
-#test.1
+#test.1dsad a
